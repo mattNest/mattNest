@@ -33,5 +33,5 @@
   
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattnest&layout=compact" alt="mattnest" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=mattnest&show_icons=true" alt="mattnest" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mattnest&show_icons=true" alt="mattnest" /></p>
 
