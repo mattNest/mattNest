@@ -14,7 +14,7 @@
 <a href="https://www.youtube.com/c/matthew hu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="matthew hu" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Frameworks:</h3>
+<h3 align="left">Daily Usages:</h3>
 <p align="left"> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <a href="https://www.python.org" target="_blank">   
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> 
