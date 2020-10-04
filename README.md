@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Matthew from Taiwan</h1>
-<h3 align="center">AI | Finance | Swimming | Mountain Climbing | Ramen</h3>
+<h3 align="center">:alien: AI | :moneybag: Finance | :swimmer: Swimming | :sunrise_over_mountains: Mountain Climbing | :coffee: Coffee | :ramen:Ramen</h3>
 
 <p align="left">
 <h3 align="left">Make a friend</h3>
