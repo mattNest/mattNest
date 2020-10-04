@@ -3,7 +3,7 @@
 
 🌱 &nbsp;&nbsp;I’m currently learning **Machine Learning in Finance**
 
-:page_facing_up:&nbsp;&nbsp; Website: <a href="https://mattnest.github.io/">**mattnest.github.io**</a>
+:page_facing_up:&nbsp;&nbsp; Website: <a href="https://mattnest.github.io/" target="_blank">**mattnest.github.io**</a>
 
 📫 &nbsp;&nbsp;How to reach me? **minghsiu.hu@gmail.com**
 
