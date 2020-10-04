@@ -1,4 +1,4 @@
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Matthew from Taiwan</h1>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Matthew</h1>
 <h3 align="center">Data Scientist | Investor | Coffee Addict | Ramen Lover | Swimmer | Climber</h3>
 
 🌱 &nbsp;&nbsp;I’m currently learning **Machine Learning in Finance**
