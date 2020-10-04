@@ -1,9 +1,9 @@
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Matthew from Taiwan</h1>
 <h3 align="center">Data Scientist | Investor | Coffee Addict | Ramen Lover | Swimmer | Climber</h3>
 
-🌱  I’m currently learning **Machine Learning in Finance**
+🌱&nbsp;I’m currently learning **Machine Learning in Finance**
 
-📫  How to reach me **minghsiu.hu@gmail.com**
+📫&nbsp;How to reach me **minghsiu.hu@gmail.com**
 
 <p align="left">
 <h3 align="left">Make a friend:</h3>
