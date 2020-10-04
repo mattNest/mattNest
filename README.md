@@ -1,5 +1,5 @@
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Matthew from Taiwan</h1>
-<h3 align="center">Data Scientist | U.S. Stock Investor | Coffee Addict | Ramen Lover | Swimmer | Climber | </h3>
+<h3 align="center">Data Scientist | Investor | Coffee Addict | Ramen Lover | Swimmer | Climber | </h3>
 
 <p align="left">
 <h3 align="left">Make a friend:</h3>
