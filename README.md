@@ -3,7 +3,7 @@
 
 🌱 &nbsp;&nbsp;I’m currently learning **Machine Learning in Finance**
 
-📫 &nbsp;&nbsp;How to reach me **minghsiu.hu@gmail.com**
+📫 &nbsp;&nbsp;How to reach me? **minghsiu.hu@gmail.com**
 
 <p align="left">
 <h3 align="left">Make a friend:</h3>
