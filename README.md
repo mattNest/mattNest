@@ -24,4 +24,6 @@
 [![Spotify](https://githubreadme4.vercel.app/api/spotify)](https://open.spotify.com/user/q3wazyctbsoku5dnplnv4nwuc?si=bhBRDiQQR_-8SwHk9JkwtA)
 
 ![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mattnest&show_icons=true&theme=onedark)
+<img src="https://komarev.com/ghpvc/?username=mattNest&color=blue" align="left">
+
 
