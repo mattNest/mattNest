@@ -24,6 +24,6 @@
 
 ![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mattnest&show_icons=true&theme=onedark)
 
-<br><img src="https://komarev.com/ghpvc/?username=mattNest&color=green" align="left">
+<img src="https://komarev.com/ghpvc/?username=mattNest&color=green" align="left">
 
 
