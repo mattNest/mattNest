@@ -7,8 +7,11 @@
 
 📫 &nbsp;&nbsp;How to reach me? **minghsiu.hu@gmail.com**
 
+<img src="https://komarev.com/ghpvc/?username=mattNest&color=blue" align="left">
 
-<p align="left">
+
+
+<br><p align="left">
 <h3 align="left">Make a Friend:</h3>
 <a href="https://www.linkedin.com/in/ming-hsiu-matthew-hu-4a0357148/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ming-hsiu (matthew) hu" height="30" width="40" /></a>
 <a href="https://medium.com/@matthewhu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@matthewhu" height="30" width="40" /></a>
@@ -24,6 +27,5 @@
 [![Spotify](https://githubreadme4.vercel.app/api/spotify)](https://open.spotify.com/user/q3wazyctbsoku5dnplnv4nwuc?si=bhBRDiQQR_-8SwHk9JkwtA)
 
 ![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mattnest&show_icons=true&theme=onedark)
-<img src="https://komarev.com/ghpvc/?username=mattNest&color=blue" align="left">
 
 
