@@ -1,5 +1,5 @@
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Matthew</h1>
-<h3 align="center">Data Science | Finance | Coffee Addict | Ramen Lover | Swimmer | Climber</h3>
+<h3 align="center">DS | Finance | Coffee | Ramen | Swimming | Hiking</h3>
 
 🌱 &nbsp;&nbsp;I’m currently learning **Machine Learning in Finance**. Happy for any discussion!
 
