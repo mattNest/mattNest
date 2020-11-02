@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Matthew</h1>
+<h1 align="center">Hi there, I'm Matthew :)</h1>
 <h3 align="center">Data | Finance | Coffee | Ramen | Swimming | Hiking</h3>
 
 ### Languages and Tools
