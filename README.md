@@ -9,8 +9,6 @@
 
 ![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mattnest&show_icons=true&theme=onedark)
 
-<br>
-
 ### Stay in Touch
 <a href="https://www.linkedin.com/in/ming-hsiu-matthew-hu-4a0357148/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://www.facebook.com/mattNestNCTU/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></img></a>
