@@ -6,7 +6,6 @@
 
 ![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mattnest&show_icons=true&theme=onedark)
 
-### Stay in Touch:
 <a href="https://www.linkedin.com/in/minghsiu-hu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 <br><img src="https://komarev.com/ghpvc/?username=mattNest&color=green" align="left">
