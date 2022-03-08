@@ -2,7 +2,7 @@
 <h3 align="center">Data | Finance | Coffee | Ramen | Swimming | Hiking</h3>
 
 ### Spotify Now Playing: 
-[![Spotify](https://githubreadme4.vercel.app/api/spotify)](https://open.spotify.com/user/q3wazyctbsoku5dnplnv4nwuc?si=bhBRDiQQR_-8SwHk9JkwtA)
+<!-- [![Spotify](https://githubreadme4.vercel.app/api/spotify)](https://open.spotify.com/user/q3wazyctbsoku5dnplnv4nwuc?si=bhBRDiQQR_-8SwHk9JkwtA) -->
 
 ![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mattnest&show_icons=true&theme=onedark)
 
